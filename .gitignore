@@ -1,0 +1,4 @@
+results/
+.python-version
+geckodriver.log
+__pycache__/
